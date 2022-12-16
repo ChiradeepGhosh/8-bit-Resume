@@ -1,0 +1,30 @@
+body{
+    padding: 80px 40px 0px 40px;
+}
+nav{
+    position:fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    border-bottom: 3px solid #bbb;
+    background-color: white;
+    font-size: 26px;
+    color: black;
+    text-align: center;
+}
+.nes-container.is-dark, .nes-container{
+    margin-bottom: 30px;
+}
+footer{
+    width: fit-content;
+    padding: 15px;
+    border: 3px solid #ccc;
+    color: rgba(0,0,0,0.3);
+    margin: 0 auto;
+    text-shadow: 0 0 5px #aaa;
+}
+.G{color: #00ccff}
+.O,.e{color: red}
+.l{color: rgb(1, 208, 1)}
+.o{color:goldenrod}
